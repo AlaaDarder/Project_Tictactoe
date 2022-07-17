@@ -1,20 +1,20 @@
 /* Add CSS rules here! */
-ul {
+ul 
+{
 	height:300px;
-    width:300px;
- 	
-  	display: flex;
- 	flex-wrap: wrap;
-  	 
+    	width:300px;
+	display: flex;
+ 	flex-wrap: wrap; 	 
 }
-li {
+
+li 
+{
 	background-color:rgb(175,238,238);
   	height:90px;
-    width:90px;
+    	width:90px;
  	list-style: none;
   	text-align: center;
   	font-size: 50px;
   	font-weight: 45; 
-  	margin: 5px;
-  	
+  	margin: 5px; 	
 }
